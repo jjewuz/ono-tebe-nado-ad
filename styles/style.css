@@ -187,6 +187,7 @@
   min-height: 596px;
 }
 
+
 .card-link {
   display: block;
   height: 100%;
@@ -304,6 +305,7 @@
 .second__text {
   margin-top: 5px;
 }
+
 
 .footer {
   display: grid;
